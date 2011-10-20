@@ -1,1 +1,17 @@
 Java class files to test the JVM project in Emery's systems seminar.
+
+The classes currently here group in some different tests:
+
+ 1. ATMain - tests array construction
+ 2. Ack - Ackerman function (Alexandre can't run it much)
+ 3. AnException, AnotherException, Catcher1 - simple exception handling
+ 4. Animal, Cat, Dog, PCat ??
+ 5. World, ClassA - static methods
+ 6. Hello - factorial and hello world
+ 7. Writer, HelloWriter, WorldWriter, Printer, Caller - abstract class
+ 8. ModTest - % operator
+ 9. Switcher - Switch
+10. Switcher2 - odder Switch
+11. Test1 - factorial
+12. Test2 - Function calls and fields
+13. TestStatic - initialization of static fields
