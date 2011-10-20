@@ -15,3 +15,4 @@ The classes currently here group in some different tests:
 11. Test1 - factorial
 12. Test2 - Function calls and fields
 13. TestStatic - initialization of static fields
+14. Vehicle, FlyingVehicle, Car, Garage, Plane - interfaces
